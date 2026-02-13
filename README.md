@@ -1,4 +1,4 @@
-###Calculadora
+Calculadora
 
 Calculadora simples feita com Javascript, HTML e CSS 
 treino basico
